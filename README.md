@@ -1,6 +1,6 @@
 # Cryptocurrencies Unsupervised Learning Challenge
 
-### Instructions
+## Instructions
 The high-level steps for this Challenge are as follows:
 
 1. Import the data (provided in the starter code).
@@ -15,6 +15,6 @@ The high-level steps for this Challenge are as follows:
 
 6. Find the best value for k by using the PCA data.
 
-Cluster the cryptocurrencies with K-means by using the PCA data.
+7. Cluster the cryptocurrencies with K-means by using the PCA data.
 
-Visualize and compare the results.
+8. Visualize and compare the results.
